@@ -4,3 +4,4 @@ obj
 .objs
 *.cfg
 *.depend
+AsciiPong

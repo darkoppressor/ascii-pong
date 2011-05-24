@@ -129,7 +129,7 @@ void credits(){
     mvprintw(6,30,"   Playtesters   ");
     set_highlight(false);
     set_color(true);
-    mvprintw(8,30,"Aneissa Weissinger");
+    mvprintw(8,32,"Aneissa Wells");
     mvprintw(10,33,"Kevin Wells");
     mvprintw(23,26,"Press any key to continue.");
     getch();

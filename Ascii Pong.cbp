@@ -13,7 +13,8 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-fexpensive-optimizations" />
-					<Add option="-O3" />
+					<Add option="-O2" />
+					<Add option="-w" />
 					<Add directory="..\..\PDCurses" />
 					<Add directory="..\..\PDCurses\win32" />
 				</Compiler>

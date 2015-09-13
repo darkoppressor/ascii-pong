@@ -1,5 +1,6 @@
 # ascii-pong
 Pong in the console window!
+http://cheeseandbacon.org/
 
 A simple pong clone, playable in a console window.
 When I made this game, I only knew how to program simple little things for the Windows console.
